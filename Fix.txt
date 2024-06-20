@@ -1,0 +1,15 @@
+Use virtual env
+
+1. Use Git Bash preferably
+
+2. Delete and Create venv
+rm -rf ~/ensf692/
+python -m venv ~/ensf692
+
+3. Activate
+source ~/ensf692/Scripts/activate
+
+4. Install
+pip install -r requirements.txt
+
+5. Follow rest of the instructions
